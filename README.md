@@ -15,7 +15,7 @@ With a deep love for crafting clean, functional code, I excel in JavaScript, Rea
 ✨ Continuously improving my skills in Vue.js, Next.js, and backend technologies.
 
 🌐 Connect With Me
-<div align="center"> <a href="https://www.linkedin.com/in/ahmad-alghalban" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /> </a> <a href="mailto:your.email@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" /> </a> <a href="https://YOUR_PORTFOLIO_LINK" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=github&logoColor=white" /> </a> </div>
+<div align="center"> <a href="https://www.linkedin.com/in/ahmad-alghalban-454382219" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /> </a> <a href="mailto:ahmadalghalban05@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" /> </a> </div>
 
 🌟 Fun Counter
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AhmadAl-Ghalban&label=Profile%20Views&color=green&style=flat" alt="Profile Counter" /> <img src="https://img.shields.io/github/followers/AhmadAl-Ghalban?label=Followers&style=social" /> </p>
