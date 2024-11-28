@@ -12,7 +12,7 @@ With a deep love for crafting clean, functional code, I excel in JavaScript, Rea
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadAl-Ghalban&theme=radical" alt="Ahmad's GitHub Streak" />
   
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAl-Ghalban&layout=compact&theme=radical&langs_count=8&hide=css,html,dart,python" alt="Ahmad's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAl-Ghalban&layout=compact&theme=radical&langs_count=8&hide=ruby,css,html,dart" alt="Ahmad's Top Languages" />
 </div>
 
 🚀 Technologies I Work With
